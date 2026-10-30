@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 品牌資訊入口頁（單頁）
+Sitemap: https://hheng1161-ctrl.github.io/bestgreening/sitemap.xml
